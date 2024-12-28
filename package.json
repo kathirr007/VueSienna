@@ -1,16 +1,12 @@
 {
-  "name": "vue-sienna",
+  "name": "vue-sienna-fork",
   "description": "VueJS - Vuetfiy3 Playground",
   "version": "1.0.2",
   "private": false,
-  "author": "Santiago Aloi <santiago@skriptag.com> (https://github.com/santiagoaloi/)",
-  "funding": {
-    "type": "individual",
-    "url": "https://buymeacoffee.com/santiagoald"
-  },
+  "author": "Kathirr007 <kathirr007@gmail.com> (https://github.com/kathirr007/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/santiagoaloi/VueSienna.git"
+    "url": "https://github.com/kathirr007/VueSienna.git"
   },
   "scripts": {
     "dev": "vite --open",
